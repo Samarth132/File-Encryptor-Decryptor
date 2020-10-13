@@ -37,7 +37,7 @@ def file_decryptor():
     fh_w.close()
     ds_msg = tkm.showinfo('File decrypted')
 
-# Gui
+# GUI
 window = tk.Tk()
 
 sv1 = tk.StringVar()
